@@ -1,1 +1,1 @@
-private repo for objectDetection project.
+ObjectDetection project.
